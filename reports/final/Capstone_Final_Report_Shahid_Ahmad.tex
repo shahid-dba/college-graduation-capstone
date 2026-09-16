@@ -36,8 +36,7 @@
   citecolor=black,
   urlcolor=MainBlue,
   pdftitle={Capstone Final Report},
-  pdfauthor={Shahid Ahmad}
-}
+  pdfauthor={Shahid Ahmad}}
 
 \doublespacing
 \setlength{\parindent}{0.5in}
@@ -74,8 +73,7 @@
   labelsep=newline,
   justification=raggedright,
   singlelinecheck=false,
-  skip=6pt
-}
+  skip=6pt}
 \renewcommand{\thetable}{\arabic{table}}
 \renewcommand{\thefigure}{\arabic{figure}}
 \newcommand{\tabnote}[1]{\par\vspace{3pt}{\small\textit{Note.} #1}}
@@ -301,11 +299,9 @@ An eligible observation had to represent a currently operating college, have pre
     {50 states and DC}/1903/2,
     {Unique UNITID}/1903/1,
     {Outcome available}/1669/0}
-  {
-    \fill[MainBlue!72] (0,\y) rectangle (\value,\y+0.55);
+  {\fill[MainBlue!72] (0,\y) rectangle (\value,\y+0.55);
     \node[anchor=east,font=\small] at (-120,\y+0.275) {\name};
-    \node[anchor=west,font=\small] at (\value+90,\y+0.275) {\pgfmathprintnumber[1000 sep={,}]{\value}};
-  }
+    \node[anchor=west,font=\small] at (\value+90,\y+0.275) {\pgfmathprintnumber[1000 sep={,}]{\value}};}
   \draw[->] (0,-0.25) -- (6600,-0.25) node[anchor=north east,font=\small] {Institutions remaining};
 \end{tikzpicture}
 \tabnote{Counts come from the latest fully executed notebook and the frozen Scorecard source.}
