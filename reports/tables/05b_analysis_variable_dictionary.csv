@@ -1,0 +1,16 @@
+variable,type_or_unit,definition,analysis_role
+UNITID,Identifier,College identifier,Audit key only
+C150_4_POOLED_SUPP,"Continuous, 0–1",Pooled completion within 150% of normal time,Primary outcome
+C150_4,"Continuous, 0–1",Unpooled completion within 150% of normal time,Sensitivity outcome
+NET_PRICE,"Continuous, USD",NPT4_PUB for public colleges; otherwise NPT4_PRIV,Affordability source field
+LOG_NET_PRICE,Continuous,log(1 + NET_PRICE),Affordability predictor
+PCTPELL,"Continuous, 0–1",Share receiving a Pell Grant,Affordability/need predictor
+PCTFLOAN,"Continuous, 0–1",Share receiving a federal student loan,Affordability/financing predictor
+ADM_RATE_SUPP,"Continuous, 0–1",Suppression-adjusted admission rate,Optional selectivity control
+LOG_UGDS,Continuous,log(1 + undergraduate enrollment),Size control
+LOG_INEXPFTE,Continuous,log(1 + instructional expenditure per FTE),Resource predictor
+LOG_AVGFACSAL,Continuous,log(1 + average monthly faculty salary),Resource predictor
+STUFACR,Continuous,Student-to-faculty ratio,Resource predictor
+CONTROL_LABEL,Categorical,"Public, private nonprofit, private for-profit",Organizational predictor/group
+REGION_LABEL,Categorical,IPEDS region code,Geographic control
+LOCALE4,Categorical,"City, suburb, town, rural",Location predictor/group

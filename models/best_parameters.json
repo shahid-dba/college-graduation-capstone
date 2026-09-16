@@ -1,0 +1,17 @@
+{
+  "OLS": {},
+  "Elastic net": {
+    "model__alpha": 0.001,
+    "model__l1_ratio": 0.1
+  },
+  "Random forest": {
+    "model__max_depth": null,
+    "model__min_samples_leaf": 1,
+    "model__n_estimators": 250
+  },
+  "Gradient boosting": {
+    "model__learning_rate": 0.03,
+    "model__max_depth": 3,
+    "model__n_estimators": 300
+  }
+}

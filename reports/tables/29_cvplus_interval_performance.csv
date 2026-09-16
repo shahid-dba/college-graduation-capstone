@@ -1,0 +1,2 @@
+method,nominal_coverage,empirical_test_coverage,average_interval_width,test_n
+CV+ conformal prediction,0.95,0.9790419161676647,0.4404219568862276,334

@@ -1,0 +1,20 @@
+Variable Name,Cohort/Measure in Featured Downloads Datafiles,Merged file Drawn From (MergedXXXX_YY_PP.csv)
+ADM_RATE_SUPP,"Fall 2022, reported in IPEDS DCY2022-23",2022_23
+AVGFACSAL,"AcadYr 2022-23 salaries of Fall 2022 faculty, reported in IPEDS DCY2022-23",2022_23
+C150_4,"Fall 2016 or AcadYr 2016-17 cohort (differs by institutional calendar), reported in IPEDS DCY2022-23",2022_23
+C150_4_POOLED_SUPP,"Fall 2016 or AcadYr 2016-17 cohort (differs by institutional calendar), reported in IPEDS DCY2022-23 pooled with previous years (# of total pooled years found in POOLYRS)",2022_23
+CONTROL,"AcadYr 2022-23, reported in IPEDS DCY2022-23",2022_23
+CURROPER,PEPS as of 08/08/2024,2022_23
+INEXPFTE,"FY2022 (numerator) and AY2021-22 (denominator), reported in IPEDS DCY2022-23",2022_23
+INSTNM,"AcadYr 2022-23, reported in IPEDS DCY2022-23, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2022-23, at latest) are included.",2022_23
+LOCALE,"AcadYr 2022-23, reported in IPEDS DCY2022-23 if data was provided; otherwise AcadYr 2022-23, reported in IPEDS DCY2022-23",2022_23
+NPT4_PRIV,"AcadYr 2021-22, reported in IPEDS DCY2022-23",2022_23
+NPT4_PUB,"AcadYr 2021-22, reported in IPEDS DCY2022-23",2022_23
+PCTFLOAN,"AcadYr 2021-22, reported in IPEDS DCY2022-23",2022_23
+PCTPELL,"AcadYr 2021-22, reported in IPEDS DCY2022-23",2022_23
+PREDDEG,"AY2021-22, reported in IPEDS DCY2022-23",2022_23
+REGION,"AcadYr 2022-23, reported in IPEDS DCY2022-23, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2022-23, at latest) are included.",2022_23
+STABBR,"AcadYr 2022-23, reported in IPEDS DCY2022-23, unless more recent data are available. Then the most recent data reported to IPEDS (through AcadYr 2022-23, at latest) are included.",2022_23
+STUFACR,"Fall 2022, reported in IPEDS DCY2022-23",2022_23
+UGDS,"Fall 2022, reported in IPEDS DCY2022-23",2022_23
+UNITID,"AcadYr 2022-23, reported in IPEDS DCY2022-23",2022_23

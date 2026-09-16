@@ -1,0 +1,7 @@
+step,remaining_n,removed_since_prior_step
+Raw institution records,6273,0
+Currently operating (CURROPER=1),6243,30
+Predominantly bachelor's degree (PREDDEG=3),1944,4299
+"50 states and Washington, DC",1903,41
+Unique UNITID,1903,0
+Primary outcome available,1669,234
